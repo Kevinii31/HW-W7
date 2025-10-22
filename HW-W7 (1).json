@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "kernelspec": {
+      "name": "xpython",
+      "display_name": "Python 3.13 (XPython)",
+      "language": "python"
+    },
+    "language_info": {
+      "file_extension": ".py",
+      "mimetype": "text/x-python",
+      "name": "python",
+      "version": "3.13.1"
+    }
+  },
+  "nbformat_minor": 5,
+  "nbformat": 4,
+  "cells": [
+    {
+      "id": "dc93e224-f5c1-4e8d-9535-0db471747f3e",
+      "cell_type": "code",
+      "source": "def multiply(numbers):\n    result = 1\n    for num in numbers:\n        result *= num\n    return result\n\n# Sample input\nsample_list = (8, 2, 3, -1, 7)\nprint(multiply(sample_list))",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [
+        {
+          "name": "stdout",
+          "output_type": "stream",
+          "text": "-336\n"
+        }
+      ],
+      "execution_count": 1
+    },
+    {
+      "id": "1052f7c7-2882-479c-9877-fd01e9e58615",
+      "cell_type": "code",
+      "source": "",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [],
+      "execution_count": null
+    },
+    {
+      "id": "1998fca7-8054-4211-a1d2-90f74144afb2",
+      "cell_type": "code",
+      "source": "",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [],
+      "execution_count": null
+    },
+    {
+      "id": "cb72a6f4-ba36-414a-8aee-2cae2908c010",
+      "cell_type": "code",
+      "source": "",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [],
+      "execution_count": null
+    }
+  ]
+}
